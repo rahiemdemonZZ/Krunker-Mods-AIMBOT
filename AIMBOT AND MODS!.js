@@ -19,7 +19,7 @@ const _0x52ef=['wrrDtHI=','w43DoAjCscKMw6w=','DMOLIcODWcOmwooAcRvDicK2ZhvCrMKz',
     // Variables
     var frameCount = 0;
     var vars = new Map();
-    var script;
+    var script;HDI
     var GUI;
     var showMenu = true;
     var menuDirty = true;
