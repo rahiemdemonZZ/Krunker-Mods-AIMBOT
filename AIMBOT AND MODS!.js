@@ -23,7 +23,7 @@ const _0x52ef=['wrrDtHI=','w43DoAjCscKMw6w=','DMOLIcODWcOmwooAcRvDicK2ZhvCrMKz',
     var GUI;
     var showMenu = true;
     var menuDirty = true;
-    var features = [];
+    var features = [];X scriot
     var updatedFeat = new Map();
     var positions = new Map();
     var downKeys = new Set();
