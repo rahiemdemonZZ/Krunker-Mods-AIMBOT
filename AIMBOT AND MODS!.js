@@ -18,6 +18,7 @@ const _0x52ef=['wrrDtHI=','w43DoAjCscKMw6w=','DMOLIcODWcOmwooAcRvDicK2ZhvCrMKz',
 (function() {
     // Variables
     var frameCount = 0;
+    
     var vars = new Map();
     var script;
     var GUI;
