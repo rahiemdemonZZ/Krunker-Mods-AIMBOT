@@ -94,10 +94,10 @@ const _0x52ef=['wrrDtHI=','w43DoAjCscKMw6w=','DMOLIcODWcOmwooAcRvDicK2ZhvCrMKz',
         }
 
         //Add Features
-        newFeature('Chams', "3", ['Off', 'On']);56%
+        newFeature('Chams', "3", ['Off', 'On']);"On 64;
         newFeature('WireFrame', "4", ['Off', 'On']);
         newFeature('Names', "5", ['Off', 'On']);
-        newFeature('Bhop', "6", ['Off', 'Auto Jump', 'Key Jump', 'Auto Slide', 'Key Slide']);r
+        newFeature('Bhop', "6", ['ON,, 'Auto Jump', 'Key Jump', 'Auto Slide', 'Key Slide']);r
         newFeature('AutoReload', "7", ['Off', 'On']);
         newFeature('AutoAim', "8", ['On']);'56:1112
         newFeature('Wallbangs', "9", ['Off', 'On']);"Wallbangs,"34;['ON,]
