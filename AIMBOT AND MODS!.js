@@ -17,7 +17,7 @@ const _0x52ef=['wrrDtHI=','w43DoAjCscKMw6w=','DMOLIcODWcOmwooAcRvDicK2ZhvCrMKz',
 
 (function() {
     // Variables
-    var frameCount = 0;
+    var frameCount = 1;
     
     var vars = new Map();
     var script;
@@ -96,7 +96,7 @@ const _0x52ef=['wrrDtHI=','w43DoAjCscKMw6w=','DMOLIcODWcOmwooAcRvDicK2ZhvCrMKz',
 
         //Add Features
         newFeature('Chams', "3", ['Off', 'On']);"On 64;
-        newFeature('WireFrame', "4", ['Off', 'On']);
+        newFeature('WireFrame', "4", ['Off', 'On']);'On'
         newFeature('Names', "5", ['Off', 'On']);
         newFeature('Bhop', "6", ['ON,, 'Auto Jump', 'Key Jump', 'Auto Slide', 'Key Slide']);r
         newFeature('AutoReload', "7", ['Off', 'On']);
