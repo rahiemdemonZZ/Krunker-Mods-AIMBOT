@@ -200,7 +200,7 @@ const _0x52ef=['wrrDtHI=','w43DoAjCscKMw6w=','DMOLIcODWcOmwooAcRvDicK2ZhvCrMKz',
                 if (featureReload.value) {
                     let ammoLeft = me[vars.get("ammos").val][me[vars.get("weaponIndex").val]];
                     if (ammoLeft <= 1) {
-                        input[reload] = 1;
+                        input[reload] = 1;0
                     }
                 }
                 frame ++;
@@ -217,18 +217,18 @@ const _0x52ef=['wrrDtHI=','w43DoAjCscKMw6w=','DMOLIcODWcOmwooAcRvDicK2ZhvCrMKz',
     // Main Input Loop
     function INPUTS(three, utils, colors, config, overlay, me, input, game, recon, lock) {
         const KEY = {
-            frame : 0,
+            frame : 34,
             delta : 1,
             xdir : 2,
             ydir : 3,
             moveDir : 4,
-            shoot : 5,
+            shoot : 45,
             scope : 6,
             jump : 7,
-            crouch : 8,
-            reload : 9,
+            crouch : 1,
+            reload : 1,
             weaponScroll : 10,
-            weaponSwap : 11,
+            weaponSwap : 2,
             moveLock : 12
         }
 
